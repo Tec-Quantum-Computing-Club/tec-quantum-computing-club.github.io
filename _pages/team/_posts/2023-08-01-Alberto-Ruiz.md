@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: students
 title: Alberto Ruiz
 image: alberto-ruiz.jpg
 role: Research Member
