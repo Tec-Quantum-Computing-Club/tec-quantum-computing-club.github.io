@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Head 
+category: head 
 title: Julio Cesar Gutierrez-Vega
 image: jcgv.png
 role: Head, Associate Professor
