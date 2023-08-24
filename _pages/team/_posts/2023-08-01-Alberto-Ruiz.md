@@ -2,17 +2,17 @@
 layout: member
 category: staff
 title: Alberto Ruiz
-image: researcher.png
+image: alberto-ruiz.jpg
 role: Research Member
 permalink: 'team/alberto-ruiz'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
+#     twitter: https://twitter.com/
+    linkedin: https://www.linkedin.com/alberto-ruiz-biestro
     google-scholar: https://scholar.google.fr/
     github: https://github.com/modifiedbear
-    website:
+    website: https://modifiedbear.github.io
     orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+  #   research-gate: https://www.researchgate.net/
 education:
- - Education
+ - B.Sc. in Engineering Physics, Monterrey Institute of Technology (2024)
 ---
