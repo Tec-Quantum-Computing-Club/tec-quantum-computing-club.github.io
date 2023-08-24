@@ -1,13 +1,13 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "Physics and Mathematical Optics"
 sitemap: false
 permalink: /
 ---
 
 ### About the Lab
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+Welcome to the home page of the Photonics and Mathematical Optics Group of the Tecnológico de Monterrey (also known by Photonics and Quantum Systems), headed by Prof. Julio C. Gutiérrez-Vega. Our Group is part of the Optics Center and the  Physics Department of the Tecnológico de Monterrey, México.
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+The main areas of research of the Photonics and Mathematical Optics Group (PMOG) cover the fields of Novel Beams and Propagation, including Bessel, Mathieu and parabolic nondiffracting beams, as well as Ince-Gaussian beams, numerical methods of special functions, propagation of optical solitons, complex source theory, and laser resonators. Although most of our work is directed to theoretical studies, we carry out experiments on CO2 Bessel-Gauss resonators, and generation of Nondiffracting beams by holographic methods. Visit the [Research Page](./research).
