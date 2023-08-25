@@ -15,8 +15,15 @@ description: > # this means to ignore newlines until "baseurl:"
   light engineering, and nonlinear systems.
 baseurl: ""
 url: ""
-link1: "https://opg.optica.org/ao/abstract.cfm?uri=ao-61-35-10400"
+link1: "arXiv:2307.04078v1"
 desc1: "Multi-functional sensor based on photonic crystal fiber using plasmonic material and magnetic fluid"
+
+link2: "https://doi.org/10.1088/1367-2630/ac77ab"
+desc2: "A non-separability measure for spatially disjoint vectorial fields"
+
+link3: "https://doi.org/10.1364/AO.456519"
+desc3: "Violation of Bell’s inequality for Mathieu-Gauss vector modes"
+
 
 include:
   - .htaccess
