@@ -1,7 +1,7 @@
 ---
 layout: member
 category: head 
-title: Julio Cesar Gutierrez-Vega
+title: Dr. Julio Cesar Gutierrez-Vega
 image: jcgv.png
 role: Head, Associate Professor
 permalink: 'team/julio-cesar'
