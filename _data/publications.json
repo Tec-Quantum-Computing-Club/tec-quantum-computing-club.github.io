@@ -1,37 +1,38 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "https://arxiv.org/abs/2307.04078"
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"title": "Violation of Bell's inequality for Mathieu-Gauss vector modes"
+		"container-title": "arxiv Physics > Optics"
+		"source": "arxiv",
+		"abstract": "Vector beams display varying polarisation over planes transversal to their direction of propagation. The variation of polarisation implies that the electric field cannot be expressed as a product of a spatial mode and its polarisation. This non-separability has been analysed for particular vector beams in terms of non--quantum entanglement between the spatial and the polarisation-degrees of freedom, and equivalently, with respect to the degree of polarisation of light. Here we demonstrate theoretically and experimentally that Mathieu-Gauss vector modes violate a Bell-like inequality known as the Clauser-Horn-Shimony-Holt-Bell (CHSH-Bell) inequality. This demonstration provides new insights into that fact that a more general class of vector modes with elliptical symmetry also violate Bell inequalities." 
+		"DOI": "https://doi.org/10.48550/arXiv.2307.04078"
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Perez-Garcia",
+				"given": "Benjamin"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Medina-Segura",
+				"given": "Edgar"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Mecillas-Hernandez",
+				"given": "Francisco I."
 			},
 			{
-				"family": "Walter",
-				"given": "T."
-			}
+				"family": "Konrad",
+				"given": "Thomas"
+			},
+      {
+        "family": "Rosales-Guzman",
+        "given": "Carmelo"
+      }
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
+					"2023",
 					2
 				]
 			]
