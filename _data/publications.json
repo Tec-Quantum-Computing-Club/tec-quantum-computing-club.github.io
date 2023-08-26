@@ -1,12 +1,12 @@
 [
 	{
-		"id": "https://arxiv.org/abs/2307.04078"
+		"id": "https://arxiv.org/abs/2307.04078",
 		"type": "article-journal",
-		"title": "Violation of Bell's inequality for Mathieu-Gauss vector modes"
-		"container-title": "arxiv Physics > Optics"
+		"title": "Violation of Bell's inequality for Mathieu-Gauss vector modes",
+		"container-title": "arxiv Physics > Optics",
 		"source": "arxiv",
-		"abstract": "Vector beams display varying polarisation over planes transversal to their direction of propagation. The variation of polarisation implies that the electric field cannot be expressed as a product of a spatial mode and its polarisation. This non-separability has been analysed for particular vector beams in terms of non--quantum entanglement between the spatial and the polarisation-degrees of freedom, and equivalently, with respect to the degree of polarisation of light. Here we demonstrate theoretically and experimentally that Mathieu-Gauss vector modes violate a Bell-like inequality known as the Clauser-Horn-Shimony-Holt-Bell (CHSH-Bell) inequality. This demonstration provides new insights into that fact that a more general class of vector modes with elliptical symmetry also violate Bell inequalities." 
-		"DOI": "https://doi.org/10.48550/arXiv.2307.04078"
+		"abstract": "Vector beams display varying polarisation over planes transversal to their direction of propagation. The variation of polarisation implies that the electric field cannot be expressed as a product of a spatial mode and its polarisation. This non-separability has been analysed for particular vector beams in terms of non--quantum entanglement between the spatial and the polarisation-degrees of freedom, and equivalently, with respect to the degree of polarisation of light. Here we demonstrate theoretically and experimentally that Mathieu-Gauss vector modes violate a Bell-like inequality known as the Clauser-Horn-Shimony-Holt-Bell (CHSH-Bell) inequality. This demonstration provides new insights into that fact that a more general class of vector modes with elliptical symmetry also violate Bell inequalities.",
+		"DOI": "https://doi.org/10.48550/arXiv.2307.04078",
 		"author": [
 			{
 				"family": "Perez-Garcia",
